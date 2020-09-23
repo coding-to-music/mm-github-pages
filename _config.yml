@@ -73,7 +73,8 @@ plugins:
 
 author:
   name   : "Thomas Connors"
-  avatar : "/assets/images/corgi-dog.jpg"
+  # avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/corgi-dog.png"
   bio    : "Musings on Really Everything"
   links:
     - label: "Website"
