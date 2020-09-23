@@ -30,7 +30,7 @@ search: true
 #
 # baseurl: "http://coding-to-music.github.io/mm-github-pages"
 # baseurl: "example.com" 
-baseurl: "mm-github-pages" 
+baseurl: "/mm-github-pages" 
 
 # Build settings
 theme: jekyll-theme-hacker
