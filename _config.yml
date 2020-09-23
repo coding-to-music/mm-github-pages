@@ -32,6 +32,10 @@ search: true
 # baseurl: "example.com" 
 baseurl: "mm-github-pages" 
 
+# Build settings
+theme: jekyll-theme-hacker
+# plugins:
+  # - jekyll-feed
 
 # Build settings
 markdown: kramdown
