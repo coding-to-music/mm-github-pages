@@ -27,9 +27,10 @@ search: true
 # https://coding-to-music.github.io/
 #           https://github.com/coding-to-music/mm-github-pages
 
+#
 # baseurl: "http://coding-to-music.github.io/mm-github-pages"
-# baseurl: "example.com"
-baseurl: "mm-github-pages"
+# baseurl: "example.com" 
+baseurl: "mm-github-pages" 
 
 
 # Build settings
