@@ -15,5 +15,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "jekyll-theme-hacker", '~> 0.1.1'
+  gem "minimal-mistakes-jekyll"
   gem 'jekyll-admin', group: :jekyll_plugins
 end

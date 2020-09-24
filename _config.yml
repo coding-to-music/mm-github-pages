@@ -33,7 +33,10 @@ search: true
 baseurl: "/mm-github-pages" 
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+# theme: jekyll-theme-hacker
 # plugins:
   # - jekyll-feed
 
